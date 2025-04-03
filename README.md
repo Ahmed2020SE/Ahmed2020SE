@@ -1,1 +1,4 @@
-A Fresh Graduate in June 2020 from the College of Computing & Information Technology at Arab Academy for Science, Technology & Maritime Transport with a cumulative GPA 3.78 is seeking a Software Developer job position. Keen to expand skills and knowledge and ready to work in a variety of roles as required based on a good experience in various training, practice projects and self-learning programs. Looking for continuous improvement of professional competencies, personal skills, and knowledge given good communication skills and details- oriented positive behavior that enable to work in as assigned or within a team.
+Passionate Senior Software Developer and PMP holder with 4
+years’ experience in Asp.net, C#, and Angular. Specializing in
+developing scalable systems and delivering top-notch solutions
+that enhance user experiences and drive business growth.
